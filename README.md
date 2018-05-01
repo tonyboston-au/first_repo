@@ -14,7 +14,7 @@ and even more here!
 - item 1
 - item 2
 
-*bold*
+**bold**
 
 _italic_
 
