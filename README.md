@@ -15,6 +15,7 @@ and even more here!
 - item 2
 
 *bold*
+
 _italic_
 
 `code snippet`
